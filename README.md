@@ -22,3 +22,7 @@
 ## (3)TARGET taxonomy
 
 ![image](https://user-images.githubusercontent.com/56884203/189909752-f560994a-419c-4468-a1e8-8731c2bde813.png)
+
+## (4)Extracted metrics
+
+![image](https://user-images.githubusercontent.com/56884203/206407598-aabe3637-e73e-4296-ad30-2a09f55a4025.png)
