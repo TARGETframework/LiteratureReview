@@ -1,251 +1,379 @@
-paperID,criterionID2,criterionName
-Almroth2020_CRATE,E.19,Security
-Almroth2020_CRATE,LO.2,Offensive security skills
-Almroth2020_CRATE,LO.4,Defensive security skills
-Almroth2020_CRATE,S.6,Immediate feedback for trainees
-Almroth2020_CRATE,T.1,Diversity of different teams
-Arshad2021_AttackSpecificationLanguage,MG.3,Structured scenario creation
-Arshad2021_AttackSpecificationLanguage,S.5,Adaptability of difficulty
-Bernardinetti2021_Nautilus,E.18,Reusability of scenario (components)
-Bernardinetti2021_Nautilus,E.19,Security
-Bernardinetti2021_Nautilus,E.2,Automated deployment
-Bernardinetti2021_Nautilus,LO.2,Offensive security skills
-Bernardinetti2021_Nautilus,MG.10,Collaboration between different cyber ranges
-Bernardinetti2021_Nautilus,MG.2,Structured deployment
-Bernardinetti2021_Nautilus,MG.3,Structured scenario creation
-Bernardinetti2021_Nautilus,MO.1,Automated monitoring (infrastructure)
-Beuran2018_Cytrone,E.14,Performance
-Beuran2018_Cytrone,E.18,Reusability of scenario (components)
-Beuran2018_Cytrone,LO.10,Teaming/collaboration skills
-Beuran2018_Cytrone,LO.2,Offensive security skills
-Beuran2018_Cytrone,LO.4,Defensive security skills
-Beuran2018_Cytrone,LO.5,Forensic skills
-Beuran2018_Cytrone,MG.1,Cost-efficiency
-Beuran2018_Cytrone,MG.3,Structured scenario creation
-Beuran2018_Cytrone,MG.8,Automation of orchestration
-Beuran2018_Cytrone,MG.9,Automation of training content generation
-Beuran2018_Cytrone,S.2,Currency
-Beuran2019_RealisticCybersecurityManagement,E.14,Performance
-Beuran2019_RealisticCybersecurityManagement,E.17,Reproducibility of scenario
-Beuran2019_RealisticCybersecurityManagement,LO.2,Offensive security skills
-Beuran2019_RealisticCybersecurityManagement,LO.4,Defensive security skills
-Beuran2019_RealisticCybersecurityManagement,LO.5,Forensic skills
-Beuran2019_RealisticCybersecurityManagement,MG.5,Technical complexity of orchestration
-Beuran2019_RealisticCybersecurityManagement,MG.9,Automation of training content generation
-Braghin2020_TowardsTheMonitoring,MO.2,Automated monitoring (trainees)
-Braghin2020_TowardsTheMonitoring,MO.3,Sophistication of trainee scoring
-Caturano2020_CapturingFlags,E.12,Modularity
-Caturano2020_CapturingFlags,E.14,Performance
-Caturano2020_CapturingFlags,E.15,Portability
-Caturano2020_CapturingFlags,E.17,Reproducibility of scenario
-Caturano2020_CapturingFlags,LO.1,Offensive security knowledge
-Caturano2020_CapturingFlags,MG.2,Structured deployment
-Caturano2020_CapturingFlags,MG.4,Variety of training scenarios
-Debatty2019_CyberDefenseSituationalAwareness,E.16,Scalability
-Debatty2019_CyberDefenseSituationalAwareness,E.5,Compatibility with standard technologies
-Debatty2019_CyberDefenseSituationalAwareness,E.8,Fidelity of simulation/emulation
-Debatty2019_CyberDefenseSituationalAwareness,LI.2,Projection of skills to real-world scenarios
-Debatty2019_CyberDefenseSituationalAwareness,LO.10,Teaming/collaboration skills
-Debatty2019_CyberDefenseSituationalAwareness,LO.9,Skills for coping with stressful situations
-Debatty2019_CyberDefenseSituationalAwareness,MG.3,Structured scenario creation
-Debatty2019_CyberDefenseSituationalAwareness,S.6,Immediate feedback for trainees
-Deckard2018_Cybertropolis,E.8,Fidelity of simulation/emulation
-Deckard2018_Cybertropolis,LO.10,Teaming/collaboration skills
-Fenton2019_IntegratingCyberRangeTechnologies,LE.2,Engagement of trainees
-Fenton2019_IntegratingCyberRangeTechnologies,LI.1,Willingness for continuous education and training
-Fenton2019_IntegratingCyberRangeTechnologies,LO.2,Offensive security skills
-Fenton2019_IntegratingCyberRangeTechnologies,MG.1,Cost-efficiency
-Ficco2019_Leaf,E.16,Scalability
-Ficco2019_Leaf,E.8,Fidelity of simulation/emulation
-Ficco2019_Leaf,LO.4,Defensive security skills
-Ficco2019_Leaf,MG.1,Cost-efficiency
-Ficco2019_Leaf,MG.4,Variety of training scenarios
-Ficco2019_Leaf,S.4,Customizability
-Gustafsson2021_CRATE,E.2,Automated deployment
-Gustafsson2021_CRATE,MG.7,Automation of event generation
-Gustafsson2021_CRATE,MO.2,Automated monitoring (trainees)
-Hatzivasilis2021_ThreatArrest,LE.2,Engagement of trainees
-Hatzivasilis2021_ThreatArrest,LE.4,Appropriate difficulty
-Hatzivasilis2021_ThreatArrest,LI.2,Projection of skills to real-world scenarios
-Hatzivasilis2021_ThreatArrest,LI.3,Long-term change in behavior
-Hatzivasilis2021_ThreatArrest,LO.2,Offensive security skills
-Hatzivasilis2021_ThreatArrest,LO.4,Defensive security skills
-Hatzivasilis2021_ThreatArrest,S.3,Alignment with certification requirements
-Jacq2021_CyberMAR,E.8,Fidelity of simulation/emulation
-Jacq2021_CyberMAR,LO.2,Offensive security skills
-Jacq2021_CyberMAR,LO.6,Security awareness
-Karjalainen2020_CyberArena,E.11,Isolation
-Karjalainen2020_CyberArena,E.19,Security
-Karjalainen2020_CyberArena,E.8,Fidelity of simulation/emulation
-Karjalainen2020_CyberArena,MG.10,Collaboration between different cyber ranges
-Karjalainen2020_CyberArena,S.4,Customizability
-Karjalainen2020_CyberArena,S.6,Immediate feedback for trainees
-Kucek2020_HumanInTheLoop,E.1,Accessibility
-Kucek2020_HumanInTheLoop,LO.10,Teaming/collaboration skills
-Kucek2020_HumanInTheLoop,LO.11,Decision-making skills
-Kucek2020_HumanInTheLoop,LO.2,Offensive security skills
-Kucek2020_HumanInTheLoop,LO.6,Security awareness
-Kucek2020_HumanInTheLoop,LO.8,Non-security related skills
-Larrucea2020_ICSBasedScenarioGenerator,E.2,Automated deployment
-Larrucea2020_ICSBasedScenarioGenerator,LO.2,Offensive security skills
-Larrucea2020_ICSBasedScenarioGenerator,MG.1,Cost-efficiency
-Leitner2020_AITCyberRange,E.12,Modularity
-Leitner2020_AITCyberRange,E.13,Open source availability
-Leitner2020_AITCyberRange,LO.4,Defensive security skills
-Leitner2020_AITCyberRange,LO.5,Forensic skills
-Leitner2020_AITCyberRange,LO.6,Security awareness
-Leitner2020_AITCyberRange,MG.2,Structured deployment
-Leitner2020_AITCyberRange,S.4,Customizability
-Mahmoud2021_DeAtt,E.16,Scalability
-Mahmoud2021_DeAtt,E.2,Automated deployment
-Mahmoud2021_DeAtt,LE.2,Engagement of trainees
-Mahmoud2021_DeAtt,MO.4,Visibility
-Nakata2021_CyExec,E.12,Modularity
-Nakata2021_CyExec,E.14,Performance
-Nakata2021_CyExec,E.15,Portability
-Nakata2021_CyExec,E.17,Reproducibility of scenario
-Nakata2021_CyExec,E.19,Security
-Nakata2021_CyExec,MG.4,Variety of training scenarios
-Oikonomou2021_ECHOFederated,E.16,Scalability
-Oikonomou2021_ECHOFederated,MG.1,Cost-efficiency
-Oikonomou2021_ECHOFederated,MG.10,Collaboration between different cyber ranges
-Orbinate2021_CRaaS,E.16,Scalability
-Orbinate2021_CRaaS,E.8,Fidelity of simulation/emulation
-Orbinate2021_CRaaS,MG.2,Structured deployment
-Orbinate2021_CRaaS,MG.3,Structured scenario creation
-Orbinate2021_CRaaS,MO.2,Automated monitoring (trainees)
-Orbinate2021_CRaaS,T.2,Dynamic teaming roles configuration
-Oslejsek2018_EvaluationOfCyberDefenseExercises,E.14,Performance
-Oslejsek2018_EvaluationOfCyberDefenseExercises,E.4,Reliability
-Oslejsek2018_EvaluationOfCyberDefenseExercises,E.8,Fidelity of simulation/emulation
-Oslejsek2018_EvaluationOfCyberDefenseExercises,LE.2,Engagement of trainees
-Oslejsek2018_EvaluationOfCyberDefenseExercises,LE.4,Appropriate difficulty
-Oslejsek2018_EvaluationOfCyberDefenseExercises,LO.10,Teaming/collaboration skills
-Oslejsek2018_EvaluationOfCyberDefenseExercises,LO.4,Defensive security skills
-Oslejsek2018_EvaluationOfCyberDefenseExercises,LO.9,Skills for coping with stressful situations
-Oslejsek2018_EvaluationOfCyberDefenseExercises,T.3,Balance of skills among teams
-Peratikou2021_OnFederated,E.14,Performance
-Peratikou2021_OnFederated,E.16,Scalability
-Peratikou2021_OnFederated,E.19,Security
-Peratikou2021_OnFederated,E.4,Reliability
-Peratikou2021_OnFederated,MG.4,Variety of training scenarios
-Peratikou2021_OnFederated,MO.1,Automated monitoring (infrastructure)
-Pham2016_CyRIS,E.14,Performance
-Pham2016_CyRIS,E.2,Automated deployment
-Pham2016_CyRIS,MG.8,Automation of orchestration
-Pham2016_CyRIS,MG.9,Automation of training content generation
-Pham2016_CyRIS,MG.6,Automation of attacks
-Pihelgas2021_Frankenstack,LO.2,Offensive security skills
-Pihelgas2021_Frankenstack,MO.2,Automated monitoring (trainees)
-Pihelgas2021_Frankenstack,S.6,Immediate feedback for trainees
-Pihelgas2021_Frankenstack,S.6,Immediate feedback for trainees
-Potamos2021_MaritimeCyberRange,E.16,Scalability
-Potamos2021_MaritimeCyberRange,E.8,Fidelity of simulation/emulation
-Potamos2021_MaritimeCyberRange,E.9,Fidelity of tools
-Potamos2021_MaritimeCyberRange,LO.2,Offensive security skills
-Potamos2021_MaritimeCyberRange,LO.4,Defensive security skills
-Puys2021_HardwareInTheLoop,E.8,Fidelity of simulation/emulation
-Puys2021_HardwareInTheLoop,LO.2,Offensive security skills
-Puys2021_HardwareInTheLoop,LO.4,Defensive security skills
-Puys2021_HardwareInTheLoop,LO.6,Security awareness
-Puys2021_HardwareInTheLoop,LO.7,Non-security related knowledge
-Puys2021_HardwareInTheLoop,LO.8,Non-security related skills
-Raybourn2018_ZeroEntry,E.13,Open source availability
-Raybourn2018_ZeroEntry,E.16,Scalability
-Raybourn2018_ZeroEntry,E.18,Reusability of scenario (components)
-Raybourn2018_ZeroEntry,E.19,Security
-Raybourn2018_ZeroEntry,E.8,Fidelity of simulation/emulation
-Raybourn2018_ZeroEntry,LE.1,Suitability for target group
-Raybourn2018_ZeroEntry,LO.2,Offensive security skills
-Raybourn2018_ZeroEntry,LO.4,Defensive security skills
-Raybourn2018_ZeroEntry,LO.5,Forensic skills
-Raybourn2018_ZeroEntry,MG.2,Structured deployment
-Roberts2021_CybersecurityTestRange,E.17,Reproducibility of scenario
-Roberts2021_CybersecurityTestRange,E.8,Fidelity of simulation/emulation
-Roberts2021_CybersecurityTestRange,MG.1,Cost-efficiency
-Roberts2021_CybersecurityTestRange,MG.4,Variety of training scenarios
-Russo2020_Crack,E.12,Modularity
-Russo2020_Crack,E.16,Scalability
-Russo2020_Crack,E.18,Reusability of scenario (components)
-Russo2020_Crack,E.2,Automated deployment
-Russo2020_Crack,E.3,Automated testing
-Russo2020_Crack,E.5,Compatibility with standard technologies
-Russo2020_Crack,E.6,Extensibility
-Russo2020_Crack,E.8,Fidelity of simulation/emulation
-Russo2020_Crack,LO.2,Offensive security skills
-Russo2020_Crack,MG.3,Structured scenario creation
-Smyrlis2020_ProgrammeSpecification,E.2,Automated deployment
-Smyrlis2020_ProgrammeSpecification,LE.1,Suitability for target group
-Smyrlis2020_ProgrammeSpecification,LO.11,Decision-making skills
-Smyrlis2020_ProgrammeSpecification,LO.4,Defensive security skills
-Smyrlis2020_ProgrammeSpecification,MG.3,Structured scenario creation
-Smyrlis2020_ProgrammeSpecification,S.4,Customizability
-Somarakis2020_ModelDriven,E.16,Scalability
-Somarakis2020_ModelDriven,E.7,Fidelity of attacks
-Somarakis2020_ModelDriven,E.8,Fidelity of simulation/emulation
-Somarakis2020_ModelDriven,LO.4,Defensive security skills
-Somarakis2020_ModelDriven,S.4,Customizability
-supp,E.20,Privacy
-supp,LI.4,Organizational impact
-supp,LI.5,Societal impact
-Tang2017_InteractiveCybersecurityDefense,E.1,Accessibility
-Tang2017_InteractiveCybersecurityDefense,E.2,Automated deployment
-Tang2017_InteractiveCybersecurityDefense,LE.3,Appropriate duration
-Tang2017_InteractiveCybersecurityDefense,LE.5,Clarity of tasks
-Tang2017_InteractiveCybersecurityDefense,LO.6,Security awareness
-Tang2017_InteractiveCybersecurityDefense,MG.6,Automation of attacks
-Tang2017_InteractiveCybersecurityDefense,S.1,Relevance
-Tian2018_RealTimeCorrelation,E.14,Performance
-Tian2018_RealTimeCorrelation,E.8,Fidelity of simulation/emulation
-Tian2018_RealTimeCorrelation,LO.2,Offensive security skills
-Tian2018_RealTimeCorrelation,LO.5,Forensic skills
-Vakaruk2021_DigitalTwin5G,E.15,Portability
-Vakaruk2021_DigitalTwin5G,E.16,Scalability
-Vakaruk2021_DigitalTwin5G,E.17,Reproducibility of scenario
-Vakaruk2021_DigitalTwin5G,E.8,Fidelity of simulation/emulation
-Vakaruk2021_DigitalTwin5G,MG.4,Variety of training scenarios
-Vakaruk2021_DigitalTwin5G,MG.6,Automation of attacks
-Vekaria2021_CyberRangeForResearchInspired,E.1,Accessibility
-Vekaria2021_CyberRangeForResearchInspired,E.6,Extensibility
-Vekaria2021_CyberRangeForResearchInspired,E.7,Fidelity of attacks
-Vekaria2021_CyberRangeForResearchInspired,E.8,Fidelity of simulation/emulation
-Vekaria2021_CyberRangeForResearchInspired,LO.4,Defensive security skills
-Vekaria2021_CyberRangeForResearchInspired,MG.2,Structured deployment
-Vekaria2021_CyberRangeForResearchInspired,MG.4,Variety of training scenarios
-Vielberth2021_DigitalTwinBasedCyberRange,E.1,Accessibility
-Vielberth2021_DigitalTwinBasedCyberRange,E.12,Modularity
-Vielberth2021_DigitalTwinBasedCyberRange,E.9,Fidelity of tools
-Vielberth2021_DigitalTwinBasedCyberRange,LE.2,Engagement of trainees
-Vielberth2021_DigitalTwinBasedCyberRange,LO.1,Offensive security knowledge
-Vielberth2021_DigitalTwinBasedCyberRange,LO.3,Defensive security knowledge
-Vielberth2021_DigitalTwinBasedCyberRange,LO.4,Defensive security skills
-Vielberth2021_DigitalTwinBasedCyberRange,MG.6,Automation of attacks
-Vykopal2017_LessonsLearned,E.1,Accessibility
-Vykopal2017_LessonsLearned,E.11,Isolation
-Vykopal2017_LessonsLearned,E.13,Open source availability
-Vykopal2017_LessonsLearned,LE.1,Suitability for target group
-Vykopal2017_LessonsLearned,LE.2,Engagement of trainees
-Vykopal2017_LessonsLearned,LO.2,Offensive security skills
-Vykopal2017_LessonsLearned,LO.4,Defensive security skills
-Vykopal2017_LessonsLearned,MG.1,Cost-efficiency
-Vykopal2017_LessonsLearned,MG.6,Automation of attacks
-Vykopal2017_LessonsLearned,S.6,Immediate feedback for trainees
-Vykopal2017_LessonsLearned,S.6,Immediate feedback for trainees
-Vykopal2017_LessonsLearned,T.3,Balance of skills among teams
-Vykopal2021_ScalableLearningEnv,E.1,Accessibility
-Vykopal2021_ScalableLearningEnv,E.10,Independence from deployment infrastructure
-Vykopal2021_ScalableLearningEnv,E.16,Scalability
-Vykopal2021_ScalableLearningEnv,E.18,Reusability of scenario (components)
-Vykopal2021_ScalableLearningEnv,MG.3,Structured scenario creation
-Vykopal2021_ScalableLearningEnv,MO.4,Visibility
-Yamin2021_SeriousGames,LO.11,Decision-making skills
-Yamin2021_SeriousGames,LO.2,Offensive security skills
-Yamin2021_SeriousGames,LO.4,Defensive security skills
-Yamin2021_SeriousGames,LO.5,Forensic skills
-Yonemura2021_CybersecurityTeachingExpert,LO.2,Offensive security skills
-Yonemura2021_CybersecurityTeachingExpert,LO.4,Defensive security skills
-Yonemura2021_CybersecurityTeachingExpert,MG.11,Collaboration with the industry
-Zanasi2021_ECHO,E.12,Modularity
-Zanasi2021_ECHO,E.18,Reusability of scenario (components)
-Zanasi2021_ECHO,MG.10,Collaboration between different cyber ranges
-Zanasi2021_ECHO,MG.2,Structured deployment
+criterionID3_NEW,Column1,paperID
+E.1,Accessibility,Kucek2020_HumanInTheLoop
+E.1,Accessibility,Sharifi2021_IoTCyberRange
+E.1,Accessibility,Shrivastava2022_CyberPhysicalExercises
+E.1,Accessibility,Tang2017_InteractiveCybersecurityDefense
+E.1,Accessibility,Vekaria2021_CyberRangeForResearchInspired
+E.1,Accessibility,Vielberth2021_DigitalTwinBasedCyberRange
+E.1,Accessibility,Vykopal2017_LessonsLearned
+E.1,Accessibility,Vykopal2021_ScalableLearningEnv
+E.10,Open-source availability,Leitner2020_AITCyberRange
+E.10,Open-source availability,Raybourn2018_ZeroEntry
+E.10,Open-source availability,Sharifi2021_IoTCyberRange
+E.10,Open-source availability,Vykopal2017_LessonsLearned
+E.11,Performance,Beuran2018_Cytrone
+E.11,Performance,Beuran2019_RealisticCybersecurityManagement
+E.11,Performance,Beuran2022_AWS
+E.11,Performance,Caturano2020_CapturingFlags
+E.11,Performance,Caturano2022_Docker
+E.11,Performance,Nakata2021_CyExec
+E.11,Performance,Oslejsek2018_EvaluationOfCyberDefenseExercises
+E.11,Performance,Peratikou2021_OnFederated
+E.11,Performance,Pham2016_CyRIS
+E.11,Performance,Tian2018_RealTimeCorrelation
+E.11,Performance,Yamin2022_Modeling
+E.12,Portability,Caturano2020_CapturingFlags
+E.12,Portability,Mengidis2022_ECHO
+E.12,Portability,Nakata2021_CyExec
+E.12,Portability,Vakaruk2021_DigitalTwin5G
+E.13,Scalability,Beuran2022_AWS
+E.13,Scalability,Debatty2019_CyberDefenseSituationalAwareness
+E.13,Scalability,Ficco2019_Leaf
+E.13,Scalability,Mahmoud2021_DeAtt
+E.13,Scalability,Oikonomou2021_ECHOFederated
+E.13,Scalability,Orbinate2021_CRaaS
+E.13,Scalability,Peratikou2021_OnFederated
+E.13,Scalability,Potamos2021_MaritimeCyberRange
+E.13,Scalability,Raybourn2018_ZeroEntry
+E.13,Scalability,Russo2020_Crack
+E.13,Scalability,Sharifi2021_IoTCyberRange
+E.13,Scalability,Somarakis2020_ModelDriven
+E.13,Scalability,Vakaruk2021_DigitalTwin5G
+E.13,Scalability,Vykopal2021_ScalableLearningEnv
+E.13,Scalability,Yamin2022_Modeling
+E.14,Reproducibility of scenario,Beuran2019_RealisticCybersecurityManagement
+E.14,Reproducibility of scenario,Caturano2020_CapturingFlags
+E.14,Reproducibility of scenario,Caturano2022_Docker
+E.14,Reproducibility of scenario,Nakata2021_CyExec
+E.14,Reproducibility of scenario,Roberts2021_CybersecurityTestRange
+E.14,Reproducibility of scenario,Svabensky2018_SeriousGames
+E.14,Reproducibility of scenario,Vakaruk2021_DigitalTwin5G
+E.14,Reproducibility of scenario,Yamin2022_CyberAttackDefenseAgents
+E.15,Reusability of scenario (components),Bernardinetti2021_Nautilus
+E.15,Reusability of scenario (components),Beuran2018_Cytrone
+E.15,Reusability of scenario (components),Friedl2022_ForCyRange
+E.15,Reusability of scenario (components),Mengidis2022_ECHO
+E.15,Reusability of scenario (components),Raybourn2018_ZeroEntry
+E.15,Reusability of scenario (components),Russo2020_Crack
+E.15,Reusability of scenario (components),Vykopal2021_ScalableLearningEnv
+E.15,Reusability of scenario (components),Zanasi2021_ECHO
+E.16,Security,Almroth2020_CRATE
+E.16,Security,Bernardinetti2021_Nautilus
+E.16,Security,Karjalainen2020_CyberArena
+E.16,Security,Nakata2021_CyExec
+E.16,Security,Peratikou2021_OnFederated
+E.16,Security,Raybourn2018_ZeroEntry
+E.16,Security,Sharifi2021_IoTCyberRange
+E.17,Privacy,supp
+E.2,Accuracy,Yamin2022_Modeling
+E.3,Resource-efficiency,Caturano2022_Docker
+E.4,Reliability,Beuran2022_AWS
+E.4,Reliability,Oslejsek2018_EvaluationOfCyberDefenseExercises
+E.4,Reliability,Peratikou2021_OnFederated
+E.4,Reliability,Shrivastava2022_CyberPhysicalExercises
+E.4,Reliability,Svabensky2018_SeriousGames
+E.4,Reliability,Yamin2022_Modeling
+E.5,Compatibility with standard technologies,Debatty2019_CyberDefenseSituationalAwareness
+E.5,Compatibility with standard technologies,Russo2020_Crack
+E.6,Extensibility,Russo2020_Crack
+E.6,Extensibility,Vekaria2021_CyberRangeForResearchInspired
+E.7,Independence from deployment infrastructure,Beuran2022_AWS
+E.7,Independence from deployment infrastructure,Vykopal2021_ScalableLearningEnv
+E.8,Isolation,Caturano2022_Docker
+E.8,Isolation,Karjalainen2020_CyberArena
+E.8,Isolation,Vykopal2017_LessonsLearned
+E.9,Modularity,Caturano2020_CapturingFlags
+E.9,Modularity,Leitner2020_AITCyberRange
+E.9,Modularity,Nakata2021_CyExec
+E.9,Modularity,Russo2020_Crack
+E.9,Modularity,Sharifi2021_IoTCyberRange
+E.9,Modularity,Vielberth2021_DigitalTwinBasedCyberRange
+E.9,Modularity,Zanasi2021_ECHO
+LE.1,Suitability for target group,Friedl2022_ForCyRange
+LE.1,Suitability for target group,Raybourn2018_ZeroEntry
+LE.1,Suitability for target group,Smyrlis2020_ProgrammeSpecification
+LE.1,Suitability for target group,Vykopal2017_LessonsLearned
+LE.2,Engagement of trainees,Fenton2019_IntegratingCyberRangeTechnologies
+LE.2,Engagement of trainees,Glas2022_Visual
+LE.2,Engagement of trainees,Hatzivasilis2021_ThreatArrest
+LE.2,Engagement of trainees,Mahmoud2021_DeAtt
+LE.2,Engagement of trainees,Oslejsek2018_EvaluationOfCyberDefenseExercises
+LE.2,Engagement of trainees,Vielberth2021_DigitalTwinBasedCyberRange
+LE.2,Engagement of trainees,Vykopal2017_LessonsLearned
+LE.3,Adequacy of difficulty,Glas2022_Visual
+LE.3,Adequacy of difficulty,Hatzivasilis2021_ThreatArrest
+LE.3,Adequacy of difficulty,Oslejsek2018_EvaluationOfCyberDefenseExercises
+LE.3,Adequacy of difficulty,Svabensky2018_SeriousGames
+LE.3,Adequacy of difficulty,Yamin2022_Modeling
+LE.4,Adequacy of duration,Sharifi2021_IoTCyberRange
+LE.4,Adequacy of duration,Tang2017_InteractiveCybersecurityDefense
+LE.5,Clarity of tasks,Tang2017_InteractiveCybersecurityDefense
+LE.6,Quality of learning material,Yonemura2022_KOSEN2
+LI.1,Willingness for continuous education and training,Fenton2019_IntegratingCyberRangeTechnologies
+LI.1,Willingness for continuous education and training,Puys2021_HardwareInTheLoop
+LI.2,Projection of skills to real-world scenarios,Collins2022_SocInABox
+LI.2,Projection of skills to real-world scenarios,Debatty2019_CyberDefenseSituationalAwareness
+LI.2,Projection of skills to real-world scenarios,Hatzivasilis2021_ThreatArrest
+LI.3,Long-term change in behavior,Hatzivasilis2021_ThreatArrest
+LI.4,Organizational impact,Shrivastava2022_CyberPhysicalExercises
+LI.4,Organizational impact,Yonemura2022_KOSEN2
+LI.5,Societal impact,supp
+LO.1,Offensive security knowledge,Caturano2020_CapturingFlags
+LO.1,Offensive security knowledge,Glas2022_Visual
+LO.1,Offensive security knowledge,Mengidis2022_ECHO
+LO.1,Offensive security knowledge,Shrivastava2022_CyberPhysicalExercises
+LO.1,Offensive security knowledge,Svabensky2018_SeriousGames
+LO.1,Offensive security knowledge,Vielberth2021_DigitalTwinBasedCyberRange
+LO.1,Offensive security knowledge,Yonemura2022_KOSEN2
+LO.10,Skills for coping with stressful situations,Debatty2019_CyberDefenseSituationalAwareness
+LO.10,Skills for coping with stressful situations,Friedl2022_ForCyRange
+LO.10,Skills for coping with stressful situations,Oslejsek2018_EvaluationOfCyberDefenseExercises
+LO.11,Teaming/collaboration knowledge,Svabensky2018_SeriousGames
+LO.12,Teaming/collaboration skills,Beuran2018_Cytrone
+LO.12,Teaming/collaboration skills,Debatty2019_CyberDefenseSituationalAwareness
+LO.12,Teaming/collaboration skills,Deckard2018_Cybertropolis
+LO.12,Teaming/collaboration skills,Kucek2020_HumanInTheLoop
+LO.12,Teaming/collaboration skills,Oslejsek2018_EvaluationOfCyberDefenseExercises
+LO.12,Teaming/collaboration skills,Svabensky2018_SeriousGames
+LO.13,Decision-making skills,Kucek2020_HumanInTheLoop
+LO.13,Decision-making skills,Smyrlis2020_ProgrammeSpecification
+LO.13,Decision-making skills,Yamin2021_SeriousGames
+LO.13,Decision-making skills,Svabensky2018_SeriousGames
+LO.2,Offensive security skills,Almroth2020_CRATE
+LO.2,Offensive security skills,Bernardinetti2021_Nautilus
+LO.2,Offensive security skills,Beuran2018_Cytrone
+LO.2,Offensive security skills,Beuran2019_RealisticCybersecurityManagement
+LO.2,Offensive security skills,Fenton2019_IntegratingCyberRangeTechnologies
+LO.2,Offensive security skills,Hatzivasilis2021_ThreatArrest
+LO.2,Offensive security skills,Jacq2021_CyberMAR
+LO.2,Offensive security skills,Kucek2020_HumanInTheLoop
+LO.2,Offensive security skills,Larrucea2020_ICSBasedScenarioGenerator
+LO.2,Offensive security skills,Mengidis2022_ECHO
+LO.2,Offensive security skills,Pihelgas2021_Frankenstack
+LO.2,Offensive security skills,Potamos2021_MaritimeCyberRange
+LO.2,Offensive security skills,Puys2021_HardwareInTheLoop
+LO.2,Offensive security skills,Raybourn2018_ZeroEntry
+LO.2,Offensive security skills,Rebecchi2022_SPIDER
+LO.2,Offensive security skills,Russo2020_Crack
+LO.2,Offensive security skills,Shrivastava2022_CyberPhysicalExercises
+LO.2,Offensive security skills,Svabensky2018_SeriousGames
+LO.2,Offensive security skills,Tian2018_RealTimeCorrelation
+LO.2,Offensive security skills,Vykopal2017_LessonsLearned
+LO.2,Offensive security skills,Yamin2021_SeriousGames
+LO.2,Offensive security skills,Yamin2022_CyberAttackDefenseAgents
+LO.2,Offensive security skills,Yamin2022_Modeling
+LO.2,Offensive security skills,Yonemura2021_CybersecurityTeachingExpert
+LO.2,Offensive security skills,Yonemura2022_KOSEN2
+LO.3,Defensive security knowledge,Glas2022_Visual
+LO.3,Defensive security knowledge,Shrivastava2022_CyberPhysicalExercises
+LO.3,Defensive security knowledge,Svabensky2018_SeriousGames
+LO.3,Defensive security knowledge,Vielberth2021_DigitalTwinBasedCyberRange
+LO.3,Defensive security knowledge,Yonemura2022_KOSEN2
+LO.4,Defensive security skills,Almroth2020_CRATE
+LO.4,Defensive security skills,Antonopoulos2022_PredictionEngine
+LO.4,Defensive security skills,Beuran2018_Cytrone
+LO.4,Defensive security skills,Beuran2019_RealisticCybersecurityManagement
+LO.4,Defensive security skills,Collins2022_SocInABox
+LO.4,Defensive security skills,Ficco2019_Leaf
+LO.4,Defensive security skills,Glas2022_Visual
+LO.4,Defensive security skills,Hatzivasilis2021_ThreatArrest
+LO.4,Defensive security skills,Leitner2020_AITCyberRange
+LO.4,Defensive security skills,Oslejsek2018_EvaluationOfCyberDefenseExercises
+LO.4,Defensive security skills,Potamos2021_MaritimeCyberRange
+LO.4,Defensive security skills,Puys2021_HardwareInTheLoop
+LO.4,Defensive security skills,Raybourn2018_ZeroEntry
+LO.4,Defensive security skills,Rebecchi2022_SPIDER
+LO.4,Defensive security skills,Shrivastava2022_CyberPhysicalExercises
+LO.4,Defensive security skills,Smyrlis2020_ProgrammeSpecification
+LO.4,Defensive security skills,Somarakis2020_ModelDriven
+LO.4,Defensive security skills,Vekaria2021_CyberRangeForResearchInspired
+LO.4,Defensive security skills,Vielberth2021_DigitalTwinBasedCyberRange
+LO.4,Defensive security skills,Vykopal2017_LessonsLearned
+LO.4,Defensive security skills,Yamin2021_SeriousGames
+LO.4,Defensive security skills,Yamin2022_CyberAttackDefenseAgents
+LO.4,Defensive security skills,Yamin2022_Modeling
+LO.4,Defensive security skills,Yonemura2021_CybersecurityTeachingExpert
+LO.4,Defensive security skills,Yonemura2022_KOSEN2
+LO.5,Forensic knowledge,Friedl2022_ForCyRange
+LO.6,Forensic skills,Beuran2018_Cytrone
+LO.6,Forensic skills,Beuran2019_RealisticCybersecurityManagement
+LO.6,Forensic skills,Friedl2022_ForCyRange
+LO.6,Forensic skills,Leitner2020_AITCyberRange
+LO.6,Forensic skills,Raybourn2018_ZeroEntry
+LO.6,Forensic skills,Tian2018_RealTimeCorrelation
+LO.6,Forensic skills,Yamin2021_SeriousGames
+LO.6,Forensic skills,Yamin2022_CyberAttackDefenseAgents
+LO.7,Security awareness,Jacq2021_CyberMAR
+LO.7,Security awareness,Kucek2020_HumanInTheLoop
+LO.7,Security awareness,Leitner2020_AITCyberRange
+LO.7,Security awareness,Puys2021_HardwareInTheLoop
+LO.7,Security awareness,Tang2017_InteractiveCybersecurityDefense
+LO.8,Non-security related technical knowledge,Glas2022_Visual
+LO.8,Non-security related technical knowledge,Puys2021_HardwareInTheLoop
+LO.8,Non-security related technical knowledge,Svabensky2018_SeriousGames
+LO.9,Non-security related technical skills,Kucek2020_HumanInTheLoop
+LO.9,Non-security related technical skills,Puys2021_HardwareInTheLoop
+LO.9,Non-security related technical skills,Shrivastava2022_CyberPhysicalExercises
+LO.9,Non-security related technical skills,Svabensky2018_SeriousGames
+MG.1,Cost-efficiency,Beuran2018_Cytrone
+MG.1,Cost-efficiency,Beuran2022_AWS
+MG.1,Cost-efficiency,Caturano2022_Docker
+MG.1,Cost-efficiency,Fenton2019_IntegratingCyberRangeTechnologies
+MG.1,Cost-efficiency,Ficco2019_Leaf
+MG.1,Cost-efficiency,Glas2022_Visual
+MG.1,Cost-efficiency,Larrucea2020_ICSBasedScenarioGenerator
+MG.1,Cost-efficiency,Oikonomou2021_ECHOFederated
+MG.1,Cost-efficiency,Roberts2021_CybersecurityTestRange
+MG.1,Cost-efficiency,Sharifi2021_IoTCyberRange
+MG.1,Cost-efficiency,Vykopal2017_LessonsLearned
+MG.10,Automation of training content generation,Beuran2018_Cytrone
+MG.10,Automation of training content generation,Beuran2019_RealisticCybersecurityManagement
+MG.10,Automation of training content generation,Pham2016_CyRIS
+MG.11,Automation of deployment,Bernardinetti2021_Nautilus
+MG.11,Automation of deployment,Gustafsson2021_CRATE
+MG.11,Automation of deployment,Larrucea2020_ICSBasedScenarioGenerator
+MG.11,Automation of deployment,Mahmoud2021_DeAtt
+MG.11,Automation of deployment,Pham2016_CyRIS
+MG.11,Automation of deployment,Russo2020_Crack
+MG.11,Automation of deployment,Smyrlis2020_ProgrammeSpecification
+MG.11,Automation of deployment,Tang2017_InteractiveCybersecurityDefense
+MG.12,Automation of testing,Russo2020_Crack
+MG.13,Collaboration between different cyber ranges,Bernardinetti2021_Nautilus
+MG.13,Collaboration between different cyber ranges,Karjalainen2020_CyberArena
+MG.13,Collaboration between different cyber ranges,Mengidis2022_ECHO
+MG.13,Collaboration between different cyber ranges,Oikonomou2021_ECHOFederated
+MG.13,Collaboration between different cyber ranges,Zanasi2021_ECHO
+MG.14,Collaboration with the industry,Yonemura2021_CybersecurityTeachingExpert
+MG.14,Collaboration with the industry,Yonemura2022_KOSEN2
+MG.2,Structured deployment,Bernardinetti2021_Nautilus
+MG.2,Structured deployment,Beuran2022_AWS
+MG.2,Structured deployment,Caturano2020_CapturingFlags
+MG.2,Structured deployment,Caturano2022_Docker
+MG.2,Structured deployment,Leitner2020_AITCyberRange
+MG.2,Structured deployment,Orbinate2021_CRaaS
+MG.2,Structured deployment,Raybourn2018_ZeroEntry
+MG.2,Structured deployment,Vekaria2021_CyberRangeForResearchInspired
+MG.2,Structured deployment,Zanasi2021_ECHO
+MG.3,Structured scenario creation,Arshad2021_AttackSpecificationLanguage
+MG.3,Structured scenario creation,Bernardinetti2021_Nautilus
+MG.3,Structured scenario creation,Beuran2018_Cytrone
+MG.3,Structured scenario creation,Beuran2022_AWS
+MG.3,Structured scenario creation,Caturano2022_Docker
+MG.3,Structured scenario creation,Debatty2019_CyberDefenseSituationalAwareness
+MG.3,Structured scenario creation,Mengidis2022_ECHO
+MG.3,Structured scenario creation,Orbinate2021_CRaaS
+MG.3,Structured scenario creation,Rebecchi2022_SPIDER
+MG.3,Structured scenario creation,Russo2020_Crack
+MG.3,Structured scenario creation,Smyrlis2020_ProgrammeSpecification
+MG.3,Structured scenario creation,Vykopal2021_ScalableLearningEnv
+MG.3,Structured scenario creation,Yamin2022_CyberAttackDefenseAgents
+MG.3,Structured scenario creation,Yamin2022_Modeling
+MG.4,Variety of training scenarios,Caturano2020_CapturingFlags
+MG.4,Variety of training scenarios,Ficco2019_Leaf
+MG.4,Variety of training scenarios,Nakata2021_CyExec
+MG.4,Variety of training scenarios,Peratikou2021_OnFederated
+MG.4,Variety of training scenarios,Roberts2021_CybersecurityTestRange
+MG.4,Variety of training scenarios,Sharifi2021_IoTCyberRange
+MG.4,Variety of training scenarios,Vakaruk2021_DigitalTwin5G
+MG.4,Variety of training scenarios,Vekaria2021_CyberRangeForResearchInspired
+MG.5,Technical complexity of orchestration,Beuran2019_RealisticCybersecurityManagement
+MG.5,Technical complexity of orchestration,Sharifi2021_IoTCyberRange
+MG.6,Automation of attacks,Beuran2022_AWS
+MG.6,Automation of attacks,Collins2022_SocInABox
+MG.6,Automation of attacks,Pham2016_CyRIS
+MG.6,Automation of attacks,Rebecchi2022_SPIDER
+MG.6,Automation of attacks,Tang2017_InteractiveCybersecurityDefense
+MG.6,Automation of attacks,Vakaruk2021_DigitalTwin5G
+MG.6,Automation of attacks,Vielberth2021_DigitalTwinBasedCyberRange
+MG.6,Automation of attacks,Vykopal2017_LessonsLearned
+MG.6,Automation of attacks,Yamin2022_CyberAttackDefenseAgents
+MG.7,Automation of defensive security operations,Yamin2022_CyberAttackDefenseAgents
+MG.7,Automation of defensive security operations,Yamin2022_Modeling
+MG.8,Automation of event generation,Collins2022_SocInABox
+MG.8,Automation of event generation,Gustafsson2021_CRATE
+MG.8,Automation of event generation,Yamin2022_Modeling
+MG.9,Automation of orchestration,Beuran2018_Cytrone
+MG.9,Automation of orchestration,Pham2016_CyRIS
+MO.1,Automation of infrastructure monitoring ,Bernardinetti2021_Nautilus
+MO.1,Automation of infrastructure monitoring ,Peratikou2021_OnFederated
+MO.1,Automation of infrastructure monitoring ,Rebecchi2022_SPIDER
+MO.1,Automation of infrastructure monitoring ,Yamin2022_CyberAttackDefenseAgents
+MO.2,Automation of trainee monitoring ,Braghin2020_TowardsTheMonitoring
+MO.2,Automation of trainee monitoring ,Gustafsson2021_CRATE
+MO.2,Automation of trainee monitoring ,Orbinate2021_CRaaS
+MO.2,Automation of trainee monitoring ,Pihelgas2021_Frankenstack
+MO.2,Automation of trainee monitoring ,Rebecchi2022_SPIDER
+MO.3,Sophistication of trainee scoring,Braghin2020_TowardsTheMonitoring
+MO.3,Sophistication of trainee scoring,Mengidis2022_ECHO
+MO.3,Sophistication of trainee scoring,Rebecchi2022_SPIDER
+MO.3,Sophistication of trainee scoring,Shrivastava2022_CyberPhysicalExercises
+MO.3,Sophistication of trainee scoring,Yamin2022_Modeling
+MO.4,Visibility,Mahmoud2021_DeAtt
+MO.4,Visibility,Vykopal2021_ScalableLearningEnv
+S.1,Relevance,Caturano2022_Docker
+S.1,Relevance,Mengidis2022_ECHO
+S.1,Relevance,Shrivastava2022_CyberPhysicalExercises
+S.1,Relevance,Svabensky2018_SeriousGames
+S.1,Relevance,Tang2017_InteractiveCybersecurityDefense
+S.1,Relevance,Yamin2022_CyberAttackDefenseAgents
+S.1,Relevance,Yamin2022_Modeling
+S.10,Alignment with certification requirements,Hatzivasilis2021_ThreatArrest
+S.11,Alignment with cybersecurity curricula guidelines,Svabensky2018_SeriousGames
+S.2,Currency,Beuran2018_Cytrone
+S.2,Currency,Shrivastava2022_CyberPhysicalExercises
+S.3,Fidelity of attacks,Antonopoulos2022_PredictionEngine
+S.3,Fidelity of attacks,Somarakis2020_ModelDriven
+S.3,Fidelity of attacks,Vekaria2021_CyberRangeForResearchInspired
+S.4,Fidelity of simulation/emulation,Debatty2019_CyberDefenseSituationalAwareness
+S.4,Fidelity of simulation/emulation,Deckard2018_Cybertropolis
+S.4,Fidelity of simulation/emulation,Ficco2019_Leaf
+S.4,Fidelity of simulation/emulation,Jacq2021_CyberMAR
+S.4,Fidelity of simulation/emulation,Karjalainen2020_CyberArena
+S.4,Fidelity of simulation/emulation,Orbinate2021_CRaaS
+S.4,Fidelity of simulation/emulation,Oslejsek2018_EvaluationOfCyberDefenseExercises
+S.4,Fidelity of simulation/emulation,Potamos2021_MaritimeCyberRange
+S.4,Fidelity of simulation/emulation,Puys2021_HardwareInTheLoop
+S.4,Fidelity of simulation/emulation,Raybourn2018_ZeroEntry
+S.4,Fidelity of simulation/emulation,Roberts2021_CybersecurityTestRange
+S.4,Fidelity of simulation/emulation,Russo2020_Crack
+S.4,Fidelity of simulation/emulation,Somarakis2020_ModelDriven
+S.4,Fidelity of simulation/emulation,Tian2018_RealTimeCorrelation
+S.4,Fidelity of simulation/emulation,Vakaruk2021_DigitalTwin5G
+S.4,Fidelity of simulation/emulation,Vekaria2021_CyberRangeForResearchInspired
+S.5,Fidelity of tools,Collins2022_SocInABox
+S.5,Fidelity of tools,Friedl2022_ForCyRange
+S.5,Fidelity of tools,Potamos2021_MaritimeCyberRange
+S.5,Fidelity of tools,Vielberth2021_DigitalTwinBasedCyberRange
+S.6,Customizability,Beuran2022_AWS
+S.6,Customizability,Ficco2019_Leaf
+S.6,Customizability,Karjalainen2020_CyberArena
+S.6,Customizability,Leitner2020_AITCyberRange
+S.6,Customizability,Mengidis2022_ECHO
+S.6,Customizability,Sharifi2021_IoTCyberRange
+S.6,Customizability,Smyrlis2020_ProgrammeSpecification
+S.6,Customizability,Somarakis2020_ModelDriven
+S.6,Customizability,Yamin2022_Modeling
+S.6,Customizability,Yamin2022_Modeling
+S.7,Adaptability of difficulty,Arshad2021_AttackSpecificationLanguage
+S.7,Adaptability of difficulty,Mengidis2022_ECHO
+S.7,Adaptability of difficulty,Yamin2022_Modeling
+S.8,Immediate feedback for trainees,Almroth2020_CRATE
+S.8,Immediate feedback for trainees,Debatty2019_CyberDefenseSituationalAwareness
+S.8,Immediate feedback for trainees,Karjalainen2020_CyberArena
+S.8,Immediate feedback for trainees,Pihelgas2021_Frankenstack
+S.8,Immediate feedback for trainees,Pihelgas2021_Frankenstack
+S.8,Immediate feedback for trainees,Vykopal2017_LessonsLearned
+S.8,Immediate feedback for trainees,Vykopal2017_LessonsLearned
+S.9,Tool-supported collaboration,Mengidis2022_ECHO
+T.1,Diversity of different teams,Almroth2020_CRATE
+T.2,Dynamic teaming roles configuration,Orbinate2021_CRaaS
+T.3,Balance of skills among teams,Granasen2016_TeamEffectiveness
+T.3,Balance of skills among teams,LaFleur2021_TeamPerformance
+T.3,Balance of skills among teams,Oslejsek2018_EvaluationOfCyberDefenseExercises
+T.3,Balance of skills among teams,Svabensky2018_SeriousGames
+T.3,Balance of skills among teams,Vykopal2017_LessonsLearned
+T.4,Team effectiveness,Buchler2018_Sociometrics
+T.4,Team effectiveness,Granasen2016_TeamEffectiveness
+T.4,Team effectiveness,LaFleur2021_TeamPerformance
+T.4,Team effectiveness,Svabensky2018_SeriousGames
+T.5,Leadership effectiveness,Buchler2017_Sociometrics
