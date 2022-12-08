@@ -8,6 +8,7 @@
 - [TARGET_1_included_literature.csv](https://github.com/TARGETframework/LiteratureReview/blob/main/TARGET_1_included_literature.csv): Sheet 1 (Included Literature) in CSV format
 - [TARGET_2_state_of_the_art.csv](https://github.com/TARGETframework/LiteratureReview/blob/main/TARGET_2_state_of_the_art.csv): Sheet 2 (State of the Art Analysis) in CSV format
 - [TARGET_3_taxonomy.csv](https://github.com/TARGETframework/LiteratureReview/blob/main/TARGET_3_taxonomy.csv): Sheet 3 (TARGET Taxonomy) in CSV format
+- [TARGET_4_metrics.csv](https://github.com/TARGETframework/LiteratureReview/blob/main/TARGET_4_metrics.csv): Sheet 4 (extracted metrics) in CSV format
 
 
 ## (1)Included Literature
